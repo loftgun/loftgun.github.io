@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Лофты и аппартаменты]]></title>
+  <link href="http://loftgun.github.io/atom.xml" rel="self"/>
+  <link href="http://loftgun.github.io/"/>
+  <updated>2014-04-29T01:31:31+04:00</updated>
+  <id>http://loftgun.github.io/</id>
+  <author>
+    <name><![CDATA[Лофт-мастер]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
