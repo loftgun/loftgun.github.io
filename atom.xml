@@ -4,7 +4,7 @@
   <title><![CDATA[Лофты и аппартаменты]]></title>
   <link href="http://loftgun.github.io/atom.xml" rel="self"/>
   <link href="http://loftgun.github.io/"/>
-  <updated>2014-04-29T02:02:04+04:00</updated>
+  <updated>2014-04-29T02:06:22+04:00</updated>
   <id>http://loftgun.github.io/</id>
   <author>
     <name><![CDATA[Лофт-мастер]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Мой путь к собственному лофту]]></title>
+    <link href="http://loftgun.github.io/blog/moi-put%27-k-sobstviennomu-loftu/"/>
+    <updated>2014-04-29T02:04:57+04:00</updated>
+    <id>http://loftgun.github.io/blog/moi-put&#8217;-k-sobstviennomu-loftu</id>
+    <content type="html"><![CDATA[<p>Кто же не мечтает о собственном жилье? Но зачем ютиться в маленьких квартирах-скворечниках, если можно купить лофт и наслаждаться простором шикарных аппартаментов?</p>
+]]></content>
+  </entry>
   
 </feed>
