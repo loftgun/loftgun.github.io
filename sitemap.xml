@@ -2,11 +2,15 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://loftgun.github.io/blog/moi-put%27-k-sobstviennomu-loftu/</loc>
-        <lastmod>2014-04-29T02:06:12+04:00</lastmod>
+        <lastmod>2014-04-29T02:18:25+04:00</lastmod>
     </url>
     <url>
         <loc>http://loftgun.github.io/blog/archives/</loc>
         <lastmod>2014-04-29T02:06:12+04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://loftgun.github.io/galierieia/</loc>
+        <lastmod>2014-04-29T02:18:38+04:00</lastmod>
     </url>
     <url>
         <loc>http://loftgun.github.io/robots.txt</loc>
